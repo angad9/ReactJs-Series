@@ -1,10 +1,16 @@
 import React from "react";
+import Chai from "./chai";
 
 function App() {
   
 
   return (
-    <h1>Hello coding duniya welcome with vite</h1>
+    <>
+    <Chai/>
+    <h1>
+      Hello angad magar
+    </h1>
+    </>
   );
 }
 

@@ -1,9 +1,11 @@
 import React from "react";
+import Chai from './Chai';
 
 function App() {
   return (
     <>
-    <h1>Hello Duniya Angad Magar</h1>
+    <Chai/>
+   
     </>
   );
 }
